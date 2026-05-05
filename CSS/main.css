@@ -1,0 +1,227 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color: transparent;
+    background: linear-gradient(90deg, #8c632e,#c19a6a,#a77a37);
+    background-clip: text;
+    padding-bottom: .2rem;		    /* marge inférieure */
+    font-size: 70px;              /* taille d'écriture*/
+    margin-bottom: 50px;
+    margin-top: 150px;
+    text-align: center;
+
+
+}
+
+body {
+    background-color: #3E2723;
+    background-size: cover;       /* L'image couvre toute la zone */
+    background-repeat: no-repeat; /* Pas de répétition */
+    margin: 0;                    /* Enlève les marges par défaut */
+
+
+}
+h3 {
+    margin-left: 10%;
+}
+
+.promo {
+
+}
+* {
+    color: goldenrod;
+
+}
+
+li {
+    font-size: 35px;          /* taille d'écriture*/
+
+    margin-left: 10%;           /* % de la marge */
+    display: inline-block;
+}
+
+
+.introChocolatier {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 25px;
+    margin-top: 180px;
+    margin-left: 60px;
+}
+
+.introChocolatier img {
+    width: 700px;
+    height: 400px;
+    margin-right: 180px;
+
+}
+
+
+h2  {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 125px;
+}
+.truffeChocolatLait  {
+    display: flex;
+    flex-direction: column; /* Empile l'image et le texte verticalement */
+    align-items: center;    /* Centre horizontalement l'image et le texte */
+    width: 300px;
+    text-align: justify;
+    margin-left: 120px;
+    margin-right: 80px;
+
+}
+
+.boiteLuxeLongue {
+
+    display: flex;
+    flex-direction: column; /* Empile l'image et le texte verticalement */
+    align-items: center;    /* Centre horizontalement l'image et le texte */
+    width: 300px;
+    text-align: justify;
+    margin-left: 120px;
+    margin-right: 80px;
+}
+
+.boiteLuxeMelange {
+
+    display: flex;
+    flex-direction: column; /* Empile l'image et le texte verticalement */
+    align-items: center;    /* Centre horizontalement l'image et le texte */
+    width: 300px;
+    text-align: justify;
+    margin-left: 120px;
+    margin-right: 80px;
+}
+
+.vegetalien {
+    display: flex;
+    flex-direction: column; /* Empile l'image et le texte verticalement */
+    align-items: center;    /* Centre horizontalement l'image et le texte */
+    width: 300px;
+    text-align: justify;
+    margin-left: 120px;
+    margin-right: 80px;
+}
+
+.sansSucre {
+    display: flex;
+    flex-direction: column; /* Empile l'image et le texte verticalement */
+    align-items: center;    /* Centre horizontalement l'image et le texte */
+    width: 300px;
+    text-align: justify;
+    margin-left: 120px;
+    margin-right: 80px;
+}
+
+.sansGluten {
+    display: flex;
+    flex-direction: column; /* Empile l'image et le texte verticalement */
+    align-items: center;    /* Centre horizontalement l'image et le texte */
+    width: 300px;
+    text-align: justify;
+    margin-left: 120px;
+    margin-right: 80px;
+}
+
+.sansAlcool {
+    display: flex;
+    flex-direction: column; /* Empile l'image et le texte verticalement */
+    align-items: center;    /* Centre horizontalement l'image et le texte */
+    width: 300px;
+    text-align: justify;
+    margin-left: 120px;
+    margin-right: 80px;
+}
+.fruitDeMer {
+    display: flex;
+    flex-direction: column; /* Empile l'image et le texte verticalement */
+    align-items: center;    /* Centre horizontalement l'image et le texte */
+    width: 300px;
+    text-align: justify;
+
+}
+
+.orangettes  {
+    display: flex;
+    flex-direction: column; /* Empile l'image et le texte verticalement */
+    align-items: center;    /* Centre horizontalement l'image et le texte */
+    width: 300px;
+    text-align: justify;
+
+}
+
+
+.truffeChocolatLait p {
+    margin: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.troisImages {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 22%;
+}
+
+.deuxImages  {
+    display: grid;
+    grid-template-columns: 2fr 1fr ;
+    margin-left: 200px;
+}
+
+
+p {
+font-size: 20px}
+
+
+img {
+    float: left;
+    shape-outside: url("../IMAGE/chocolatCoule.png");
+
+}
+
+.fouet {
+    width: 100%;
+    font-size: 20px;
+
+}
+
+.preparation {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2%;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    gap: 150px;
+    margin-left: 800px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
